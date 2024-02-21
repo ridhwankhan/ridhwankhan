@@ -1,5 +1,5 @@
 
-- 🌱 I’m currently learning **Flutter app devlopment and backend programming**
+- 🌱 I’m currently learning **Machine learning **
 
 - 💬 Ask me about **Python, C++, Dart, Flutter**
 
