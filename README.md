@@ -4,12 +4,14 @@
 - 💬 Ask me about **Python, C++, Dart, Flutter**
 
 - 📫  **ridhwankhan03@gmail.com**
+- <a href="https://ridhwankhan.netlify.app/">Portfolio website</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/ridhwan.khan2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ridhwan.khan2" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ridhwan-khan-977681236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ridhwan Khan" height="30" width="40" /></a>
-<a href="https://instagram.com/ridhwanur_rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ridhwanur_rahman" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/ridhwanur_rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ridhwanur_rahman" height="30" width="40" /></a> -->
+<a href = "https://x.com/ridhwan_khan1" target = "blank"> <img align = "center" src = "https://images.theconversation.com/files/539785/original/file-20230727-15-bugw5m.jpg?ixlib=rb-4.1.0&rect=5%2C5%2C3988%2C2586&q=20&auto=format&w=320&fit=clip&dpr=2&usm=12&cs=strip" alt = "X Image"  height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
