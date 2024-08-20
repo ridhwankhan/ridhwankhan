@@ -1,7 +1,7 @@
 
 - 🌱 I’m currently learning **Machine learning**
 
-- 💬 Ask me about **Python, C++, Dart, Flutter**
+- 💬 Ask me about **Data Analytics, Python, C++, Dart, Flutter**
 
 - 📫  **ridhwankhan03@gmail.com**
 - <a href="https://ridhwankhan.netlify.app/">Portfolio website</a> 
