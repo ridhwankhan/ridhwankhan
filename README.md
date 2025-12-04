@@ -1,30 +1,70 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=20C20E&center=true&vCenter=true&width=650&lines=Ridhwanur+Rahman+Khan;AI+Research+Enthusiast;Deep+Learning+%26+NLP+Specialist;CS+Undergrad+%40+BRAC+University" alt="Typing SVG" />
+</div>
 
-- 🌱 I’m currently learning **Machine learning**
-
-- 💬 Ask me about **Data Analytics, Python, C++, Dart, Flutter**
-
-- 📫  **ridhwankhan03@gmail.com**
-- <a href="https://ridhwankhan.netlify.app/">Portfolio website</a> 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/ridhwan.khan2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ridhwan.khan2" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ridhwan-khan-977681236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ridhwan Khan" height="30" width="40" /></a>
-<!-- <a href="https://instagram.com/ridhwanur_rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ridhwanur_rahman" height="30" width="40" /></a> -->
-<a href = "https://x.com/ridhwan_khan1" target = "blank"> <img align = "center" src = "https://images.theconversation.com/files/539785/original/file-20230727-15-bugw5m.jpg?ixlib=rb-4.1.0&rect=5%2C5%2C3988%2C2586&q=20&auto=format&w=320&fit=clip&dpr=2&usm=12&cs=strip" alt = "X Image"  height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-- To do 
-<!-- Animated "Hello World!" text -->
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="480" height="270">
+  <a href="https://ridhwankhan.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ridhwan-khan-977681236/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ridhwankhan03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://x.com/ridhwan_khan1">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
 </p>
 
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ridhwankhan&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ridhwankhan&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhwankhan&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+### 🧠 Academic & Research Focus
+
+I am a Computer Science student at **BRAC University** with a specialized academic focus on **Artificial Intelligence, Machine Learning, and Natural Language Processing (NLP)**. I combine my coursework knowledge with hands-on development to build robust, intelligent systems.
+
+- 🔬 **Core Research Interests:** Deep Learning, Large Language Models (LLMs), Data Analytics, and applying AI to societal challenges (UN SDGs).
+- 📚 **Relevant Coursework:** Advanced Machine Learning (ML), Natural Language Processing (NLP), Artificial Intelligence(AI), and Crypto currency & Crypto Analysis.
+- 🔭 **Currently working on:** Research-driven Deep Learning models & NLP projects.
+- 🌱 **Currently learning:** Advanced statistical methods for ML, and scalable backend infrastructure for deploying AI services.
+
+---
+
+### 🛠️ Research & Development Stack
+
+<div align="center">
+  
+  #### 🧠 Core AI & Research Tools
+  
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoSize=18"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&logoSize=18"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&logoSize=18"/>
+    <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white&logoSize=18"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&logoSize=18"/>
+    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&logoSize=18"/>
+  </p>
+
+  <br>
+  
+  #### 💻 Development, Editors & Platforms
+  
+  <p>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&logoSize=18"/>
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&logoSize=18"/>
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoSize=18"/>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&logoSize=18"/>
+    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&logoSize=18"/>
+    <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white&logoSize=18"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&logoSize=18"/>
+  </p>
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" style="border-radius: 10px;" alt="Coding Animation">
+  <br>
+  <p><i>Building the future, one intelligent algorithm at a time.</i></p>
+</div>
