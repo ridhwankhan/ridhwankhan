@@ -25,8 +25,8 @@ I am a Computer Science student at **BRAC University** with a specialized academ
 
 - 🔬 **Core Research Interests:** Deep Learning, Large Language Models (LLMs), Data Analytics, and applying AI to societal challenges (UN SDGs).
 - 📚 **Relevant Coursework:** Advanced Machine Learning (ML), Natural Language Processing (NLP), Artificial Intelligence(AI), and Crypto currency & Crypto Analysis.
-- 🔭 **Currently working on:** Research-driven Deep Learning models & NLP projects.
-- 🌱 **Currently learning:** Advanced statistical methods for ML, and scalable backend infrastructure for deploying AI services.
+- 🔭 **Currently working on:** Data science, Compiler design & cryptography  projects.
+- 🌱 **Currently learning:** Advanced statistical methods for ML.
 
 ---
 
